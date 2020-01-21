@@ -1,0 +1,81 @@
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24488ms
+rtt min/avg/max/mdev = 0.363/0.608/3.481/0.612 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24478ms
+rtt min/avg/max/mdev = 0.379/0.575/1.606/0.281 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24494ms
+rtt min/avg/max/mdev = 0.399/0.609/3.017/0.524 ms
+
+---------------------------------------------------------------------
+
+--- youtube.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24032ms
+rtt min/avg/max/mdev = 64.839/114.441/492.547/81.567 ms
+
+--- youtube.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24034ms
+rtt min/avg/max/mdev = 68.976/100.773/270.936/35.996 ms
+
+--- youtube.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24036ms
+rtt min/avg/max/mdev = 73.704/94.189/117.551/10.831 ms
+
+--------------------------------------------------------------------
+--- facebook.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24030ms
+rtt min/avg/max/mdev = 78.055/117.981/363.674/63.177 ms
+
+--- facebook.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24034ms
+rtt min/avg/max/mdev = 64.881/97.434/123.171/15.070 ms
+
+--- facebook.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24030ms
+rtt min/avg/max/mdev = 57.423/95.297/287.926/41.053 ms
+
+
+
+-------------------------------------------------------------------
+--- geeksforgeeks.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 25260ms
+rtt min/avg/max/mdev = 241.537/435.898/731.715/137.976 ms
+
+--- geeksforgeeks.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24002ms
+rtt min/avg/max/mdev = 244.239/480.930/709.413/127.791 ms
+
+--- geeksforgeeks.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24004ms
+rtt min/avg/max/mdev = 252.100/444.612/694.449/137.571 ms
+
+------------------------------------------------------------------
+--- flipkart.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24028ms
+rtt min/avg/max/mdev = 106.154/206.099/339.331/81.052 ms
+
+--- flipkart.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24007ms
+rtt min/avg/max/mdev = 108.978/145.764/283.852/48.978 ms
+
+--- flipkart.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24032ms
+rtt min/avg/max/mdev = 106.546/156.079/354.781/66.767 ms
+
+-----------------------------------------------------------------
+
+--- cricbuzz.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24023ms
+rtt min/avg/max/mdev = 85.971/110.601/166.067/15.511 ms
+
+--- cricbuzz.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24032ms
+rtt min/avg/max/mdev = 94.358/160.898/315.142/73.637 ms
+
+
+--- cricbuzz.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24033ms
+rtt min/avg/max/mdev = 96.011/116.945/218.452/23.108 ms

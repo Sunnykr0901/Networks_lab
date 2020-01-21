@@ -1,0 +1,23 @@
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24507ms
+rtt min/avg/max/mdev = 0.317/0.558/2.737/0.456 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24394ms
+rtt min/avg/max/mdev = 0.425/0.892/6.023/1.142 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24453ms
+rtt min/avg/max/mdev = 0.497/0.804/4.386/0.800 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24320ms
+rtt min/avg/max/mdev = 0.598/1.005/3.797/0.741 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24025ms
+rtt min/avg/max/mdev = 0.973/1.228/3.264/0.611 ms
+
+--- iitg.ac.in ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24036ms
+rtt min/avg/max/mdev = 1.264/1.792/7.802/1.598 ms
