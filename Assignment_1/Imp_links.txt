@@ -1,0 +1,17 @@
+1.	https://securitytrails.com/blog/top-15-nmap-commands-to-scan-remote-hosts
+
+2.	https://www.tecmint.com/20-netstat-commands-for-linux-network-management/
+	https://www.juniper.net/documentation/en_US/junos/topics/concept/interface-security-loopback-understanding.html
+	https://linuxacademy.com/blog/linux/netstat-network-analysis-and-troubleshooting-explained/
+
+3.	https://www.tutorialspoint.com/unix_commands/route.htm
+	https://www.cyberciti.biz/faq/what-is-a-routing-table/
+
+4.	http://blmrgnn.blogspot.com/2014/01/linux-ifconfig-command-output-explained.html
+	https://www.tecmint.com/ifconfig-command-examples/
+
+5.	https://linux.die.net/man/8/ping
+
+
+
+
